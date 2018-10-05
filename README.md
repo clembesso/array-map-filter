@@ -1,5 +1,7 @@
 # Exercices sur map et filter
 
+
+
 ## Installation
 
 * [EDIT] **D'abord** forker, **puis** cloner ce repo (indispensable pour Travis, sinon ça marche quand même sans Travis)
